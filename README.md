@@ -1,3 +1,16 @@
+# Unsplash Searcher
+
+A Simple react project
+
+## Setup
+
+- Create an [unsplash developer](https://unsplash.com/developers) account. 
+- Create and application and copy your unsplash application key and secret key
+- Duplicate `env-example` as `.env` and paste your keys into the newly created `.env`
+- build the react app and run `npm start`
+
+## React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
